@@ -2,6 +2,7 @@
 
 /**
  * @module exports the Game class
+ * Oct. 5
  */
 module.exports = exports = Game;
 
